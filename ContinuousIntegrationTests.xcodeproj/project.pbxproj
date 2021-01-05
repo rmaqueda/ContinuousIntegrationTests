@@ -20,6 +20,7 @@
 		8CD0A56525A4BF3C0091A770 /* CoreData1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A56425A4BF3C0091A770 /* CoreData1.swift */; };
 		8CD0A56D25A4C0960091A770 /* CoreData2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A56C25A4C0960091A770 /* CoreData2.swift */; };
 		8CD0A57325A4C39E0091A770 /* Complesity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A57225A4C39E0091A770 /* Complesity.swift */; };
+		8CD0A57C25A4C5CD0091A770 /* Tailor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A57B25A4C5CD0091A770 /* Tailor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		8CD0A56425A4BF3C0091A770 /* CoreData1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData1.swift; sourceTree = "<group>"; };
 		8CD0A56C25A4C0960091A770 /* CoreData2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData2.swift; sourceTree = "<group>"; };
 		8CD0A57225A4C39E0091A770 /* Complesity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Complesity.swift; sourceTree = "<group>"; };
+		8CD0A57B25A4C5CD0091A770 /* Tailor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tailor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 		8CA6B6C225A46405003DA132 /* ContinuousIntegrationTests */ = {
 			isa = PBXGroup;
 			children = (
+				8CD0A57A25A4C5C20091A770 /* Tailor */,
 				8CD0A57125A4C3890091A770 /* Cyclomatic Complexity */,
 				8CD0A56325A4BF2D0091A770 /* Repeat Code */,
 				8CD0A55925A4BD150091A770 /* main.swift */,
@@ -157,6 +160,14 @@
 				8CD0A57225A4C39E0091A770 /* Complesity.swift */,
 			);
 			path = "Cyclomatic Complexity";
+			sourceTree = "<group>";
+		};
+		8CD0A57A25A4C5C20091A770 /* Tailor */ = {
+			isa = PBXGroup;
+			children = (
+				8CD0A57B25A4C5CD0091A770 /* Tailor.swift */,
+			);
+			path = Tailor;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -313,6 +324,7 @@
 			files = (
 				8CA6B6C825A46405003DA132 /* ViewController.swift in Sources */,
 				8CD0A56D25A4C0960091A770 /* CoreData2.swift in Sources */,
+				8CD0A57C25A4C5CD0091A770 /* Tailor.swift in Sources */,
 				8CD0A57325A4C39E0091A770 /* Complesity.swift in Sources */,
 				8CA6B6C425A46405003DA132 /* AppDelegate.swift in Sources */,
 				8CD0A55A25A4BD150091A770 /* main.swift in Sources */,
