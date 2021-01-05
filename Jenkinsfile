@@ -10,6 +10,8 @@ pipeline {
     XC_PROJECT= "ContinuousIntegrationTests.xcodeproj"
     XC_SCHEME = "ContinuousIntegrationTests"
     SOURCE_DIR = "ContinuousIntegrationTests"
+
+    SONAR_TOKEN = credentials('SONAR_TOKEN')
   }
 
   stages {
