@@ -18,7 +18,6 @@
 		8CD0A55A25A4BD150091A770 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A55925A4BD150091A770 /* main.swift */; };
 		8CD0A55F25A4BD6C0091A770 /* TestingAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A55E25A4BD6C0091A770 /* TestingAppDelegate.swift */; };
 		8CD0A56525A4BF3C0091A770 /* CoreData1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A56425A4BF3C0091A770 /* CoreData1.swift */; };
-		8CD0A56D25A4C0960091A770 /* CoreData2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A56C25A4C0960091A770 /* CoreData2.swift */; };
 		8CD0A57325A4C39E0091A770 /* Complesity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A57225A4C39E0091A770 /* Complesity.swift */; };
 		8CD0A57C25A4C5CD0091A770 /* Tailor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A57B25A4C5CD0091A770 /* Tailor.swift */; };
 /* End PBXBuildFile section */
@@ -58,7 +57,6 @@
 		8CD0A55925A4BD150091A770 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8CD0A55E25A4BD6C0091A770 /* TestingAppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestingAppDelegate.swift; sourceTree = "<group>"; };
 		8CD0A56425A4BF3C0091A770 /* CoreData1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData1.swift; sourceTree = "<group>"; };
-		8CD0A56C25A4C0960091A770 /* CoreData2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData2.swift; sourceTree = "<group>"; };
 		8CD0A57225A4C39E0091A770 /* Complesity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Complesity.swift; sourceTree = "<group>"; };
 		8CD0A57B25A4C5CD0091A770 /* Tailor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tailor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -149,7 +147,6 @@
 			isa = PBXGroup;
 			children = (
 				8CD0A56425A4BF3C0091A770 /* CoreData1.swift */,
-				8CD0A56C25A4C0960091A770 /* CoreData2.swift */,
 			);
 			path = "Repeat Code";
 			sourceTree = "<group>";
@@ -323,7 +320,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CA6B6C825A46405003DA132 /* ViewController.swift in Sources */,
-				8CD0A56D25A4C0960091A770 /* CoreData2.swift in Sources */,
 				8CD0A57C25A4C5CD0091A770 /* Tailor.swift in Sources */,
 				8CD0A57325A4C39E0091A770 /* Complesity.swift in Sources */,
 				8CA6B6C425A46405003DA132 /* AppDelegate.swift in Sources */,
