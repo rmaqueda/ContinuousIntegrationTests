@@ -31,9 +31,9 @@ pipeline {
     stage('Quality measure') {
       steps {
         sh 'slather coverage -x --scheme ${XC_SCHEME} --output-directory sonar-reports --jenkins ${XC_PROJECT}'
-        sh 'swiftlint lint ${SOURCE_DIR} > sonar-reports/swiftlint.txt'
-        sh 'lizard --xml ${SOURCE_DIR} > sonar-reports/lizard-report.xml'
-        sh 'tailor -no-color --max-line-length=100 --max-file-length=500 --max-name-length=40 --max-name-length=40 --min-name-length=4 ${SOURCE_DIR} > sonar-reports/${XC_SCHEME}-tailor.txt'
+        sh 'swiftlint lint  --reporter json ${SOURCE_DIR} > sonar-reports/swiftlint.json'
+        #sh 'lizard --xml ${SOURCE_DIR} > sonar-reports/lizard-report.xml'
+        #sh 'tailor -no-color --max-line-length=100 --max-file-length=500 --max-name-length=40 --max-name-length=40 --min-name-length=4 ${SOURCE_DIR} > sonar-reports/${XC_SCHEME}-tailor.txt'
 
         script {
           if (env.CHANGE_ID) {
