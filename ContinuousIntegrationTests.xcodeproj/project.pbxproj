@@ -15,6 +15,10 @@
 		8CA6B6D025A46406003DA132 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CA6B6CE25A46406003DA132 /* LaunchScreen.storyboard */; };
 		8CA6B6DB25A46406003DA132 /* ContinuousIntegrationTestsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA6B6DA25A46406003DA132 /* ContinuousIntegrationTestsTests.swift */; };
 		8CA6B6E625A46406003DA132 /* ContinuousIntegrationTestsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CA6B6E525A46406003DA132 /* ContinuousIntegrationTestsUITests.swift */; };
+		8CBD35B325A5A8690097C0FD /* CoreData1 copy 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBD35AF25A5A8690097C0FD /* CoreData1 copy 4.swift */; };
+		8CBD35B425A5A8690097C0FD /* CoreData1 copy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBD35B025A5A8690097C0FD /* CoreData1 copy.swift */; };
+		8CBD35B525A5A8690097C0FD /* CoreData1 copy 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBD35B125A5A8690097C0FD /* CoreData1 copy 3.swift */; };
+		8CBD35B625A5A8690097C0FD /* CoreData1 copy 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CBD35B225A5A8690097C0FD /* CoreData1 copy 2.swift */; };
 		8CD0A55A25A4BD150091A770 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A55925A4BD150091A770 /* main.swift */; };
 		8CD0A55F25A4BD6C0091A770 /* TestingAppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A55E25A4BD6C0091A770 /* TestingAppDelegate.swift */; };
 		8CD0A56525A4BF3C0091A770 /* CoreData1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD0A56425A4BF3C0091A770 /* CoreData1.swift */; };
@@ -54,6 +58,10 @@
 		8CA6B6E125A46406003DA132 /* ContinuousIntegrationTestsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ContinuousIntegrationTestsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CA6B6E525A46406003DA132 /* ContinuousIntegrationTestsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContinuousIntegrationTestsUITests.swift; sourceTree = "<group>"; };
 		8CA6B6E725A46406003DA132 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CBD35AF25A5A8690097C0FD /* CoreData1 copy 4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CoreData1 copy 4.swift"; sourceTree = "<group>"; };
+		8CBD35B025A5A8690097C0FD /* CoreData1 copy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CoreData1 copy.swift"; sourceTree = "<group>"; };
+		8CBD35B125A5A8690097C0FD /* CoreData1 copy 3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CoreData1 copy 3.swift"; sourceTree = "<group>"; };
+		8CBD35B225A5A8690097C0FD /* CoreData1 copy 2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CoreData1 copy 2.swift"; sourceTree = "<group>"; };
 		8CD0A55925A4BD150091A770 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8CD0A55E25A4BD6C0091A770 /* TestingAppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestingAppDelegate.swift; sourceTree = "<group>"; };
 		8CD0A56425A4BF3C0091A770 /* CoreData1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreData1.swift; sourceTree = "<group>"; };
@@ -147,6 +155,10 @@
 			isa = PBXGroup;
 			children = (
 				8CD0A56425A4BF3C0091A770 /* CoreData1.swift */,
+				8CBD35B225A5A8690097C0FD /* CoreData1 copy 2.swift */,
+				8CBD35B125A5A8690097C0FD /* CoreData1 copy 3.swift */,
+				8CBD35AF25A5A8690097C0FD /* CoreData1 copy 4.swift */,
+				8CBD35B025A5A8690097C0FD /* CoreData1 copy.swift */,
 			);
 			path = "Repeat Code";
 			sourceTree = "<group>";
@@ -319,10 +331,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CBD35B425A5A8690097C0FD /* CoreData1 copy.swift in Sources */,
 				8CA6B6C825A46405003DA132 /* ViewController.swift in Sources */,
 				8CD0A57C25A4C5CD0091A770 /* Tailor.swift in Sources */,
 				8CD0A57325A4C39E0091A770 /* Complesity.swift in Sources */,
 				8CA6B6C425A46405003DA132 /* AppDelegate.swift in Sources */,
+				8CBD35B525A5A8690097C0FD /* CoreData1 copy 3.swift in Sources */,
+				8CBD35B325A5A8690097C0FD /* CoreData1 copy 4.swift in Sources */,
+				8CBD35B625A5A8690097C0FD /* CoreData1 copy 2.swift in Sources */,
 				8CD0A55A25A4BD150091A770 /* main.swift in Sources */,
 				8CA6B6C625A46405003DA132 /* SceneDelegate.swift in Sources */,
 				8CD0A56525A4BF3C0091A770 /* CoreData1.swift in Sources */,
