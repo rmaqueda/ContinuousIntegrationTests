@@ -1,5 +1,5 @@
 //
-//  CoreData2.swift
+//  CoreData1.swift
 //  ContinuousIntegrationTests
 //
 //  Created by Ricardo Maqueda Martinez on 05/01/2021.
@@ -8,7 +8,7 @@
 import Foundation
 import CoreData
 
-class CoreData2 {
+class CoreData4 {
     init() {
         let persistentContainer = NSPersistentContainer(name: "Model")
         
