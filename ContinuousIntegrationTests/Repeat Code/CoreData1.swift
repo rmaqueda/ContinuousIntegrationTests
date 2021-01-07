@@ -51,4 +51,24 @@ class CoreData1 {
         print("Fetched items: \(fetchedItemsAfterDelete)")
     }
     
+    func test() {
+        let persistentContaine2r = NSPersistentContainer(name: "Model")
+        let description = NSPersistentStoreDescription()
+        description.type = NSInMemoryStoreType
+        persistentContaine2r.persistentStoreDescriptions = [description]
+        
+        let group = DispatchGroup()
+        
+        group.enter()
+        
+        persistentContaine2r.loadPersistentStores { storeDescription, error in
+            if let error = error {
+                assertionFailure(error.localizedDescription)
+            }
+            
+            print("Core Data stack has been initialized with description: \(storeDescription)")
+            
+            group.leave()
+        }
+    }
 }

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+   <duplication lines="35" tokens="129">
+      <file column="227" endcolumn="8" endline="48" line="14"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="82" line="48"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="116" line="82"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="150" line="116"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="184" line="150"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="229" endcolumn="8" endline="218" line="184"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="252" line="218"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="227" endcolumn="8" endline="319" line="285"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="353" line="319"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="387" line="353"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="421" line="387"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="455" line="421"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="489" line="455"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="228" endcolumn="8" endline="523" line="489"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <codefragment><![CDATA[    func v1eryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLong() {
+        let veryLongVeryLongVery1 = 0
+        let veryLongVeryLongVery2 = 0
+        let veryLongVeryLongVery3 = 0
+        let veryLongVeryLongVery4 = 0
+        let veryLongVeryLongVery5 = 0
+        let veryLongVeryLongVery6 = 0
+        let veryLongVeryLongVery7 = 0
+        let veryLongVeryLongVery8 = 0
+        let veryLongVeryLongVery9 = 0
+        let veryLongVeryLongVery10 = 0
+        let veryLongVeryLongVery11 = 0
+        let veryLongVeryLongVery12 = 0
+        let veryLongVeryLongVery13 = 0
+        let veryLongVeryLongVery14 = 0
+        let veryLongVeryLongVery15 = 0
+        let veryLongVeryLongVery16 = 0
+        let veryLongVeryLongVery17 = 0
+        let veryLongVeryLongVery18 = 0
+        let veryLongVeryLongVery19 = 0
+        let veryLongVeryLongVery20 = 0
+        let veryLongVeryLongVery21 = 0
+        let veryLongVeryLongVery22 = 0
+        let veryLongVeryLongVery23 = 0
+        let veryLongVeryLongVery24 = 0
+        let veryLongVeryLongVery25 = 0
+        let veryLongVeryLongVery26 = 0
+        let veryLongVeryLongVery27 = 0
+        let veryLongVeryLongVery28 = 0
+        let veryLongVeryLongVery29 = 0
+        let veryLongVeryLongVery30 = 0
+        let veryLongVeryLongVery31 = 0
+    }
+    
+    func v2eryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLong() {]]></codefragment>
+   </duplication>
+   <duplication lines="27" tokens="96">
+      <file column="35" endcolumn="8" endline="48" line="22"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="82" line="56"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="116" line="90"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="150" line="124"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="184" line="158"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="218" line="192"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="252" line="226"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="285" line="259"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="319" line="293"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="353" line="327"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="387" line="361"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="421" line="395"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="455" line="429"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="489" line="463"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="35" endcolumn="8" endline="523" line="497"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <codefragment><![CDATA[        let veryLongVeryLongVery8 = 0
+        let veryLongVeryLongVery9 = 0
+        let veryLongVeryLongVery10 = 0
+        let veryLongVeryLongVery11 = 0
+        let veryLongVeryLongVery12 = 0
+        let veryLongVeryLongVery13 = 0
+        let veryLongVeryLongVery14 = 0
+        let veryLongVeryLongVery15 = 0
+        let veryLongVeryLongVery16 = 0
+        let veryLongVeryLongVery17 = 0
+        let veryLongVeryLongVery18 = 0
+        let veryLongVeryLongVery19 = 0
+        let veryLongVeryLongVery20 = 0
+        let veryLongVeryLongVery21 = 0
+        let veryLongVeryLongVery22 = 0
+        let veryLongVeryLongVery23 = 0
+        let veryLongVeryLongVery24 = 0
+        let veryLongVeryLongVery25 = 0
+        let veryLongVeryLongVery26 = 0
+        let veryLongVeryLongVery27 = 0
+        let veryLongVeryLongVery28 = 0
+        let veryLongVeryLongVery29 = 0
+        let veryLongVeryLongVery30 = 0
+        let veryLongVeryLongVery31 = 0
+    }
+    
+    func v2eryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLongVeryLong() {]]></codefragment>
+   </duplication>
+   <duplication lines="20" tokens="78">
+      <file column="36" endcolumn="38" endline="45" line="26"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="79" line="60"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="113" line="94"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="147" line="128"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="181" line="162"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="215" line="196"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="249" line="230"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="282" line="263"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="316" line="297"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="350" line="331"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="384" line="365"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="418" line="399"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="452" line="433"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="486" line="467"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="36" endcolumn="38" endline="520" line="501"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <file column="53" endcolumn="38" endline="554" line="535"
+            path="/Users/ricardomaqueda/Repos/ContinuousIntegrationTests/ContinuousIntegrationTests/Tailor/Tailor.swift"/>
+      <codefragment><![CDATA[        let veryLongVeryLongVery12 = 0
+        let veryLongVeryLongVery13 = 0
+        let veryLongVeryLongVery14 = 0
+        let veryLongVeryLongVery15 = 0
+        let veryLongVeryLongVery16 = 0
+        let veryLongVeryLongVery17 = 0
+        let veryLongVeryLongVery18 = 0
+        let veryLongVeryLongVery19 = 0
+        let veryLongVeryLongVery20 = 0
+        let veryLongVeryLongVery21 = 0
+        let veryLongVeryLongVery22 = 0
+        let veryLongVeryLongVery23 = 0
+        let veryLongVeryLongVery24 = 0
+        let veryLongVeryLongVery25 = 0
+        let veryLongVeryLongVery26 = 0
+        let veryLongVeryLongVery27 = 0
+        let veryLongVeryLongVery28 = 0
+        let veryLongVeryLongVery29 = 0
+        let veryLongVeryLongVery30 = 0
+        let veryLongVeryLongVery31 = 0]]></codefragment>
+   </duplication>
+</pmd-cpd>
